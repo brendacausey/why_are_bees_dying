@@ -1,2 +1,1 @@
-# why_are_bees_dying
-lists of states in the US with losses and causes of bees dying
+https://github.com/brendacausey/why_are_bees_dying.git
